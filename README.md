@@ -1,4 +1,4 @@
 # tic-tac-toe
 x o
-online Version : 
-www.xo.getforge.io
+
+The is available online: www.xo.getforge.io
